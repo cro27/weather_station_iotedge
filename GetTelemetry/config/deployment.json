@@ -10,8 +10,8 @@
             "loggingOptions": "",
             "registryCredentials": {
               "docker": {
-                "username": "",
-                "password": "",
+                "username": "<Docker USER>",
+                "password": "<Docker PWD>",
                 "address": "docker.io"
               }
             }
