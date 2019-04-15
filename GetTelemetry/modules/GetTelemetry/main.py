@@ -33,7 +33,7 @@ TWIN_CALLBACKS = 0
 MESSAGE_COUNT = 0
 
 # set deviceid
-DeviceID = "wattlepiEdge"
+DeviceID = "<Device Name>"
 
 # Choose HTTP, AMQP or MQTT as transport protocol.  Currently only MQTT is supported.
 PROTOCOL = IoTHubTransportProvider.MQTT
